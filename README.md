@@ -1,4 +1,4 @@
-# 🚲 Mountain-Bike 🚲
+# 🚲 Mountain Bike 🚲
 
 🚵‍♂️ This website inform you about mountain biking as an olympic modality, focused on the activity inside Brazil.
 
